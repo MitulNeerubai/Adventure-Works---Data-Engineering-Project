@@ -1,6 +1,6 @@
 # Adventure-Works---Data-Engineering-Project
 
-This project is an End-to-End Data Engineering pipeline built using Microsoft Azure. It covers the **entire ETL process, from data ingestion to transformation and analysis, utilizing Azure Data Factory, Azure Data Lake, Databricks, Azure Synapse Analytics and PowerBI.**
+# This project is an End-to-End Data Engineering pipeline built using Microsoft Azure. It covers the entire ETL process, from data ingestion to transformation and analysis, utilizing Azure Data Factory, Azure Data Lake, Databricks, Azure Synapse Analytics and PowerBI.
 
 
 
