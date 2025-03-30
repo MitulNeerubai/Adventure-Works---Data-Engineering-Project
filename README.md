@@ -9,11 +9,10 @@ This project is an **End-to-End Data Engineering pipeline** built using **Micros
 
 
 ### Key Tasks Completed
-Created Azure resources for storage and data processing.
+* Created Azure resources for storage and data processing.
 
-Set up Azure Data Lake Storage (ADLS Gen2) and created Bronze, Silver, and Gold containers.
-
-Created Azure Data Factory and configured pipelines & linked services.
+* Set up Azure Data Lake Storage (ADLS Gen2) and created Bronze, Silver, and Gold containers.
+* Created Azure Data Factory and configured pipelines & linked services.
 
 Ingested data from an API and a CSV file from GitHub into the Bronze layer.
 
