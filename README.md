@@ -2,6 +2,12 @@
 
 This project is an End-to-End Data Engineering pipeline built using Microsoft Azure. It covers the entire ETL process, from data ingestion to transformation and analysis, utilizing Azure Data Factory, Azure Data Lake, Databricks, Azure Synapse Analytics and PowerBI.
 
+
+
+![Dashboard](https://github.com/user-attachments/assets/d07fc559-a419-4624-b2b9-f8bbefea6ac4)
+
+
+
 ### Key Tasks Completed
 Created Azure resources for storage and data processing.
 
@@ -77,8 +83,6 @@ Created dashboards and reports for analyzing the processed data stored in Azure 
 Enabled data refresh from Azure Synapse to ensure up-to-date insights.
 
 Designed interactive reports to provide key metrics and insights to stakeholders.
-
-![Dashboard](https://github.com/user-attachments/assets/d07fc559-a419-4624-b2b9-f8bbefea6ac4)
 
 ### Conclusion
 This project showcases the creation of an End-to-End Data Engineering pipeline using Microsoft Azure tools. By leveraging Azure Data Factory, Data Lake, Databricks, Synapse Analytics, and Power BI, we successfully automated the ETL process - from data ingestion to transformation and reporting.
